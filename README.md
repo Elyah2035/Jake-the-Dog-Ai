@@ -22,9 +22,9 @@ This GitHub repository contains a Python script that combines OpenAI's GPT-3.5 T
 
 4. Ensure you have the necessary Python libraries installed. You can use \`pip\` to install them:
 
-\`\`\`bash
+```bash
 pip install openai speech_recognition gtts simpleaudio
-\`\`\`
+```
 
 5. Customize the trigger word (variable \`triggerword\`) to your preference, which activates the chatbot.
 
