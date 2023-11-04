@@ -39,3 +39,27 @@ You can use this script to create interactive chatbots for various applications,
 For more information on OpenAI GPT-3.5 Turbo and the Python libraries used in this script, refer to the respective documentation and guidelines.
 
 Enjoy interacting with your AI chatbot!"
+
+
+You will maybe run into some errors this maybe will help:
+openai: You can install it using pip.
+```bash
+pip install openai
+```
+speech_recognition: Install it using pip.
+```bash
+pip install SpeechRecognition
+```
+gtts (Google Text-to-Speech): You can install it with pip.
+```bash
+pip install gTTS
+```
+pydub: Install it with pip.
+```bash
+pip install pydub
+```
+simpleaudio: You can install it using pip.
+```bash
+pip install simpleaudio
+```
+
